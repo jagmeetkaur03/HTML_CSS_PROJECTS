@@ -8,4 +8,12 @@
     border-bottom: 1px solid #716040;
 }
 
-.description {}
+.description {
+    margin-top: -15px;
+    font-size: large;
+    color: #716040;
+}
+
+figure {
+    display: block;
+}
